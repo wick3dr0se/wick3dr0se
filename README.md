@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **wick3dr0se@protonmail.com**
+- 📫 How to reach me **wick3dr0se@pm.me**
 
 - ⚡ Fun fact **Vue > React > Angular**
 
