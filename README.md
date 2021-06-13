@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wick3dr0se](https://github.com/wick3dr0se)
-
-- 📝 I regularly write articles on [Linux & web development related forums](Linux & web development related forums)
+- 📝 I regularly write articles on **Linux & privacy**
 
 - 💬 Ask me about **Web development or marketing**
 
