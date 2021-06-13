@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on **Linux & privacy**
 
-- 💬 Ask me about **Web development or marketing**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **wick3dr0se@protonmail.com**
 
