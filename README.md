@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 📝 I regularly write articles on **Linux & privacy**
+- 📝 I regularly write about **Linux & privacy**
 
 - 💬 Ask me about **Anything**
 
