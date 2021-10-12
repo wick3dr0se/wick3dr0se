@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 📝 I regularly write about **Linux & privacy**
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **wick3dr0se@pm.me**
