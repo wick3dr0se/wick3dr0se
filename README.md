@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wick3dr0se&label=Profile%20views&color=0e75b6&style=flat" alt="wick3dr0se" /> </p>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **BASH**
 
 - 💬 Ask me about **Anything**
 
