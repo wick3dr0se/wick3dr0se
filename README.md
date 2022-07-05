@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm wick3dr0se!</h1>
-<h3 align="center">A scripter/programmer from the United States</h3>
+<h3 align="center">A hobby scripter/programmer from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wick3dr0se&label=Profile%20views&color=0e75b6&style=flat" alt="wick3dr0se" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with [typer](https://github.com/wick3dr0se/typer.sh)
 
-- 📫 How to reach me **wick3dr0se@pm.me**
-
 - ⚡ Fun fact **C > Go > Rust**
+
+Join Open-Source Programming on [Discord](https://discord.gg/TstuWvDzXr).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
