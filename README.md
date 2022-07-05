@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wick3dr0se&label=Profile%20views&color=0e75b6&style=flat" alt="wick3dr0se" /> </p>
 
-- 🔭 I’m currently working on a better BASH framework - [bashin](https://github.com/wick3dr0se.com/bashin)
+- 🔭 I’m currently working on a better BASH framework - [bashin](https://github.com/wick3dr0se/bashin)
 
 - 🌱 I’m currently learning **C**
 
