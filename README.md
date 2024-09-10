@@ -8,7 +8,7 @@ When I'm not breaking and rebuilding things, I'm dedicated to growing [Open Sour
 
 ### Current Focus & Interests
 - Contributing to other projects and collaborating on any of [my repositories](https://github.com/wick3dr0se?tab=repositories) or [OSF repositories](https://github.com/orgs/opensource-force/repositories)
-- Working on [Dyrah](https://github.com/opensource-force/dyrah) — A Tibia-like MORPG game written in Rust
+- Working on [Dyrah](https://github.com/opensource-force/dyrah) — A Tibia-like MORPG written in Rust
 - Learning more about operating system, game development and low-level concepts
 - Pushing the shell and terminal to its limits
 
