@@ -17,7 +17,7 @@
     <a href="https://wick3dr0se.github.io">Mi casa<img src="https://avatars.githubusercontent.com/u/56238258?v=4", width=15/></a>
     <strong>OSF:</strong>
       <a href="https://opensourceforce.net/discord">Discord</a> • 
-      <a href="https://github.com/opensource-force">GitHub</a> • 
+      <a href="https://github.com/open-source-force">GitHub</a> • 
       <a href="https://opensourceforce.net">Website</a>
   </p>
   
@@ -41,8 +41,8 @@
 </div>
 
 ### Current Focus & Interests
-- Working on [my repositories](https://github.com/wick3dr0se?tab=repositories) and [OSF repositories](https://github.com/orgs/opensource-force/repositories); contributions welcome!
+- Working on [my repositories](https://github.com/wick3dr0se?tab=repositories) and [OSF repositories](https://github.com/orgs/open-source-force/repositories); contributions welcome!
 - Building [Egor](https://github.com/wick3dr0se/egor): a cross-platform 2D graphics engine
-- Creating [Dyrah](https://github.com/opensource-force/dyrah): a Tibia-like MORPG written in Rust
+- Creating [Dyrah](https://github.com/open-source-force/dyrah): a Tibia-like MORPG written in Rust
 - Exploring gamedev, low level systems and fun Linux scripts
 
